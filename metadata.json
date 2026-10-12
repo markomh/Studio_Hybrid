@@ -1,0 +1,6 @@
+{
+  "name": "Studio Hybrid Workspace",
+  "description": "AI-Powered Activity Book & Creative Publishing Platform for puzzle books, worksheets, Amazon KDP, and automated digital publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
